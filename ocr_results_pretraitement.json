@@ -1,0 +1,82 @@
+[
+    {
+        "text": "(SP35",
+        "left": 267,
+        "top": 218,
+        "width": 121,
+        "height": 48,
+        "conf": 0.5360581619144758
+    },
+    {
+        "text": "8",
+        "left": 1595,
+        "top": 499,
+        "width": 66,
+        "height": 209,
+        "conf": 0.7594024678865061
+    },
+    {
+        "text": "Camaldoli",
+        "left": 2407,
+        "top": 638,
+        "width": 238,
+        "height": 57,
+        "conf": 0.9998654876614631
+    },
+    {
+        "text": "G\u00eanes",
+        "left": 1149,
+        "top": 888,
+        "width": 309,
+        "height": 115,
+        "conf": 0.9976884486555906
+    },
+    {
+        "text": "E80]",
+        "left": 259,
+        "top": 986,
+        "width": 69,
+        "height": 45,
+        "conf": 0.58601975440979
+    },
+    {
+        "text": "n",
+        "left": 1277,
+        "top": 1048,
+        "width": 39,
+        "height": 32,
+        "conf": 0.7658203815877904
+    },
+    {
+        "text": "Bacino",
+        "left": 955,
+        "top": 1307,
+        "width": 135,
+        "height": 41,
+        "conf": 0.9134973879674139
+    },
+    {
+        "text": "Porto",
+        "left": 966,
+        "top": 1346,
+        "width": 113,
+        "height": 45,
+        "conf": 0.9995113279752336
+    },
+    {
+        "text": "Vecchio",
+        "left": 946,
+        "top": 1386,
+        "width": 158,
+        "height": 44,
+        "conf": 0.9248234522333584
+    },
+    {
+        "text": "Iss",
+        "left": 2108,
+        "top": 1595,
+        "width": 65,
+        "height": 43,
+        "conf": 0.8510133116536819
+    }
+]
