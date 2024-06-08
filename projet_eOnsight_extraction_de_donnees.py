@@ -1,4 +1,4 @@
-# Importation des Frameworks 
+# Importation des librairies 
 import easyocr
 import os
 import json
