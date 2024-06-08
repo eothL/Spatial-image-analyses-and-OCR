@@ -1,3 +1,4 @@
 easyocr
 Pillow
 json
+os
