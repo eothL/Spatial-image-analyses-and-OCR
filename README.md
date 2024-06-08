@@ -1,0 +1,3 @@
+easyocr
+json
+os
