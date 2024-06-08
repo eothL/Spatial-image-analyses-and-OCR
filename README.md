@@ -8,7 +8,7 @@ It also contains a script that extracts the table.
 - Python 3.12
 - `easyocr`
 - `Pillow`
-
+- `os`
 
 
 
